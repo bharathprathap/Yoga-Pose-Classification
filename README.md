@@ -27,4 +27,4 @@ Kaggle Dataset Link: https://www.kaggle.com/shrutisaxena/yoga-pose-image-classif
 ## Contributors
 <a href="https://github.com/Anandks07">Anand K S</a>
 
-<a href="#">Rahan Manoj</a>
+<a href="https://github.com/rahanmanoj">Rahan Manoj</a>
