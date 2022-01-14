@@ -9,12 +9,17 @@ This was a project done as part of Deep Learning for Computer Vision course at m
 1) Feed Forward Network
 2) Convolutional Neural Network
 
-So in the Project Source Code Folder , you will be able see:
+So in this repository, you will be able see:
 ```
 ├── Project Source Code
-    ├── Phase_1_Feedforward[Source_code].ipynb
-    └── Phase_2_CNN_Efficientnet[Source_code].ipynb
-    └── Phase_2_CNN_Efficientnet[Source_code].ipynb
+|   ├── Phase_1_Feedforward[Source_code].ipynb
+|   └── Phase_2_CNN_Efficientnet[Source_code].ipynb
+|   └── Phase_2_models_for_comparison[other_than_efficientnet].ipynb
+|   
+├── Project Documentation
+|   ├── Phase-1-Feedforward-report.pdf
+|   └── Phase-2-CNN-Efficientnet-paper.pdf
+
 ```
 ## Dataset
 The model developed for the objective was trained using
