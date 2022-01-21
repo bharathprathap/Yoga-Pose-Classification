@@ -27,7 +27,7 @@ the ’Yoga Pose Image classification dataset’ from Kaggle.
 Data augmentation was performed on the dataset at later
 stages.
 
-Kaggle Dataset Link: https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset
+Kaggle Dataset: [Link](https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset)
 
 ## Contributors
 <a href="https://github.com/Anandks07">Anand K S</a>
